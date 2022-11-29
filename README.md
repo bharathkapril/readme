@@ -1,3 +1,3 @@
 #Bharath
 
-demo for github and how to work on github
+demo for github and how to work on github and git
